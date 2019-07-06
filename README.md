@@ -10,7 +10,7 @@ Dataset contains information about users who hit our site: whether they converte
 - age : user age. Self-reported at sign-in step
 - new_user : whether the user created the account during this session or had already an account and simply came back to the site
 - source : marketing channel source
-           -          Ads: came to the site by clicking on an advertisement
+                      -          Ads: came to the site by clicking on an advertisement
            -          Seo: came to the site by clicking on search results
            -          Direct: came to the site by directly typing the URL on the browser
 - total_pages_visited: number of total pages visited during the session. This is a proxy for time spent on site and engagement during the session.
